@@ -1,0 +1,11 @@
+'''Lets get started with the code? 
+
+mission-isro/
+├── public/              # Static assets (images, icons)
+├── src/
+│   ├── components/      # Reusable UI components
+│   ├── data/            # Mission data (JSON)
+│   ├── pages/           # Page-level components
+│   └── utils/           # Helper functions
+├── README.md
+└── package.json
