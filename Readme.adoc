@@ -1,11 +1,10 @@
 '''Lets get started with the code? 
 
-mission-isro/
-├── public/              # Static assets (images, icons)
-├── src/
-│   ├── components/      # Reusable UI components
-│   ├── data/            # Mission data (JSON)
-│   ├── pages/           # Page-level components
-│   └── utils/           # Helper functions
-├── README.md
-└── package.json
+/scientist login
+/dashboard- forcasting/nowcasting 
+/forcasting- model
+/nowcasting- aditya
+/forcasting= data format= dataframe/array
+/nowcasting= data format= fits.GZ
+/show graph
+/bhagooooo aag lag gyi-
